@@ -1,10 +1,10 @@
 import Image from "next/image"
-import faizanImg from "./assites/faizan-image.jpg";
+import faizanImg from "./assites/faizan-img.jpg";
 
 
 function Header() {
   return (<>
-  <div className="p-5">
+  <div className="">
     <div className="flex overflow-hidden  m-auto    justify-center">
       <Image className="mb-10 flex w-full rounded-3xl overflow-hidden   justify-center" src={faizanImg} alt="logo" width={200} height={200}/>
     </div>
