@@ -27,7 +27,7 @@ function MyProject() {
           </p>
         </div>
         <a href="https://oolx-clone.netlify.app/" target="_blank">
-          <button className="bg-black text-white p-2 rounded-lg text-base  px-3 mt-5">
+          <button className="bg-[#141414] text-white p-2 rounded-lg text-base  px-3 mt-5">
             {" "}
             SEE DETAIL
           </button>{" "}
